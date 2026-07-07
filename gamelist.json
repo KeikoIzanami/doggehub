@@ -1,4 +1,14 @@
 {
-"3723583608": {"Name": "Drain the Lake", "lua": "138381251771774.lua"}
-  
+  "games": [
+    {
+      "placeId": 138381251771774,
+      "name": "Drain the Lake",
+      "module": "138381251771774"
+    },
+    {
+      "placeId": 0,
+      "name": "Default",
+      "module": "Default"
+    }
+  ]
 }
