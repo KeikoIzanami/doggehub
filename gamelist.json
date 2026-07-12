@@ -33,6 +33,11 @@
       "module": "135038773889079"
     },
     {
+      "placeId": 139177199868845,
+      "name": "+1 Fan per Step",
+      "module": "139177199868845"
+    },
+    {
       "placeId": 0,
       "name": "Default",
       "module": "Default"
