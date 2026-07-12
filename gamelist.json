@@ -21,6 +21,18 @@
       "module": "120766736586332"
     },
     {
+      "placeId": 84016394196827,
+      "universeId": 10384841418,
+      "name": "Clean the Squishies! Map game",
+      "module": "135038773889079"
+    },
+    {
+      "placeId": 135038773889079,
+      "universeId": 10384841418,
+      "name": "Clean the Squishies!",
+      "module": "135038773889079"
+    },
+    {
       "placeId": 0,
       "name": "Default",
       "module": "Default"
