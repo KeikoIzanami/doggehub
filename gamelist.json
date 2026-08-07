@@ -38,6 +38,18 @@
       "module": "139177199868845"
     },
     {
+      "placeId": 117533937949084,
+      "universeId": 9910245722,
+      "name": "IronSoul Lobby",
+      "module": "ironsoul"
+    },
+    {
+      "placeId": 116456628154258,
+      "universeId": 9910245722,
+      "name": "IronSoul Starless Forest (Map1 Mode2)",
+      "module": "ironsoul"
+    },
+    {
       "placeId": 0,
       "name": "Default",
       "module": "Default"
