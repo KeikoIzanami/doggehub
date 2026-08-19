@@ -50,6 +50,12 @@
       "module": "ironsoul"
     },
     {
+      "placeId": 94640181989498,
+      "universeId": 10338952197,
+      "name": "chickent grow figter",
+      "module": "chickentfight"
+    },
+    {
       "placeId": 0,
       "name": "Default",
       "module": "Default"
