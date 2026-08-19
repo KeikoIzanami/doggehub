@@ -50,79 +50,15 @@
       "module": "ironsoul"
     },
     {
-      "placeId": {
-  "games": [
-    {
-      "placeId": 124786371598438,
-      "name": "Drain the Lake",
-      "module": "138381251771774"
-    },
-    {
-      "placeId": 9584852943,
-      "name": "Keyboard Escape | Candy & Chocolate",
-      "module": "95082159892680"
-    },
-    {
-      "placeId": 91695551099066,
-      "name": "+1 Shrink per Step",
-      "module": "91695551099066"
-    },
-    {
-      "placeId": 120766736586332,
-      "name": "+1 Strength Per Click",
-      "module": "120766736586332"
-    },
-    {
-      "placeId": 84016394196827,
-      "universeId": 10384841418,
-      "name": "Clean the Squishies! Map game",
-      "module": "135038773889079"
-    },
-    {
-      "placeId": 135038773889079,
-      "universeId": 10384841418,
-      "name": "Clean the Squishies!",
-      "module": "135038773889079"
-    },
-    {
-      "placeId": 139177199868845,
-      "name": "+1 Fan per Step",
-      "module": "139177199868845"
-    },
-    {
-      "placeId": 117533937949084,
-      "universeId": 9910245722,
-      "name": "IronSoul Lobby",
-      "module": "ironsoul"
-    },
-    {
-      "placeId": 116456628154258,
-      "universeId": 9910245722,
-      "name": "IronSoul Starless Forest (Map1 Mode2)",
-      "module": "ironsoul"
-    },
-    {
       "placeId": 94640181989498,
       "universeId": 10338952197, 
       "name": "chickent grow figter",
-      "module": "chickentfight"
+      "module": "chickent"
     },
     {
       "placeId": 0,
       "name": "Default",
-      "module": "Default"
-    }
-  ]
-}
-,
-      "universeId": 10338952197,
-      "name": "chickent grow figter",
-      "module": "chickentfight"
-    },
-    {
-      "placeId": 0,
-      "name": "Default",
-      "module": "Default"
+      "module": "chickent"
     }
   ]
 }
